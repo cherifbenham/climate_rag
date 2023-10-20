@@ -1,0 +1,51 @@
+﻿MODEL;Usage;Window Context;Input Usage;Output Usage
+GPT-4;Chat Completion;8K context;$0.03 / 1K tokens;$0.06 / 1K tokens
+GPT-4;Chat Completion;32K context;$0.06 / 1K tokens;$0.12 / 1K tokens
+GPT-3.5 Turbo;Chat Completion;4K context;$0.0015 / 1K tokens;$0.002 / 1K tokens
+GPT-3.5 Turbo;Chat Completion;16K context;$0.003 / 1K tokens;$0.004 / 1K tokens
+Ada v2;Embedding;unlimited;$0.0001 / 1K tokens;-
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
