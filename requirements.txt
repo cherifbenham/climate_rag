@@ -1,0 +1,28 @@
+#langchain
+langchain
+
+# Core utilities
+numpy
+pandas
+
+# For document loading and text processing
+pdfminer.six
+beautifulsoup4
+pypdf
+
+# For embeddings and FAISS
+faiss-cpu
+sentence-transformers
+transformers
+
+# For web interface
+fastapi
+uvicorn
+gradio
+
+# For potential compatibility or specific version needs
+torch
+openai
+huggingface-hub
+
+tiktoken
