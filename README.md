@@ -1,2 +1,2 @@
-# climate_rag
+# rag
 Retrieval Augmented Generation
